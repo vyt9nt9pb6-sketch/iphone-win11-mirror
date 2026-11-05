@@ -1,0 +1,5 @@
+*.msi
+*.zip
+uxplay-part-*
+chunks*/
+public-url.txt
