@@ -1,5 +1,19 @@
+# Installers & large binaries
 *.msi
+*.exe
 *.zip
+*.7z
+
+# Temp / local
 uxplay-part-*
 chunks*/
 public-url.txt
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
